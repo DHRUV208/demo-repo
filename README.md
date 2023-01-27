@@ -5,3 +5,6 @@ some description !!
 
 watch tutorial !! 
 
+## LOCAL DEVELOPMENT
+
+1. Open index.html
